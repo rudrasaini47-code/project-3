@@ -1,0 +1,47 @@
+[
+  {
+    "id": "jst-6wire",
+    "name": "6-wire JST, multicolour",
+    "file": "jst-6wire.png",
+    "num_wires": 6,
+    "band": null,
+    "wire_px": null,
+    "builtin": true
+  },
+  {
+    "id": "3wire-blue",
+    "name": "3-wire: blue, black, blue",
+    "file": "3wire-blue.png",
+    "num_wires": 3,
+    "band": [
+      20,
+      60
+    ],
+    "wire_px": null,
+    "builtin": true
+  },
+  {
+    "id": "3wire-pink",
+    "name": "3-wire: pink, black, pink",
+    "file": "3wire-pink.png",
+    "num_wires": 3,
+    "band": [
+      20,
+      60
+    ],
+    "wire_px": null,
+    "builtin": true
+  },
+  {
+    "id": "3wire-green",
+    "name": "3-wire: grey-green, black, grey-green",
+    "file": "3wire-green.png",
+    "num_wires": 3,
+    "band": [
+      20,
+      60
+    ],
+    "wire_px": null,
+    "builtin": true
+  }
+]
